@@ -1,0 +1,28 @@
+document.querySelector("h1");  // irá buscar o h1 na página 
+
+console.log(document.querySelector("h1"));  // irá escrever o conteudo do h1 
+
+var titulo = document.querySelector("h1"); // irá criar uma variável com o conteudo de h1 
+
+console.log(titulo.textContent);  // irá imprimir o conteudo da variável titulo (sem as tags)
+
+titulo.textContent = "Exemplo";  // irá trocar o conteudo da variável titulo 
+
+<script src="js/principal.js"></script> // irá linkar um arquivo javascript]
+
+alert(mensagem);  // cria um alerta com o conteudo da variavel mensagem
+
+.querySelectorAll  // seleciona todos os conteudos da classe/variável
+
+paciente.style.backgroundColor = "lightcoral"  // mudar o estilo da classe paciente em javascript 
+
+paciente.classList.add("paciente-invalido");  // criar uma classe em javascript 
+
+titulo.classList // exibe todas as class que titulo possui 
+
+titulo.classList.add("titulo")  // função resposável por adicionar uma classe que recebe como parametro o nome da classe que queremos adicionar
+
+event.preventDefault() /// previne acontecimentos padrões como por exemplo apos criar uma nova linha e dar submit a pagina recarregar e perder os dados
+
+
+
